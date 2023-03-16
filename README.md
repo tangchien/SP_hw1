@@ -19,7 +19,6 @@ Valid id are from 902001 to 902020
 ```
 
 #### What I do
-I add the poll to solve the busy waiting issue. \\
-I add the lock on the file to solve the race condition when there are multiple connection.
+I add the poll to solve the busy waiting issue, and I add the lock on the file to solve the race condition when there are multiple connection.
 
 
