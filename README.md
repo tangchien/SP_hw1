@@ -4,7 +4,7 @@ Valid id are from 902001 to 902020
 
 ### How to run the program (read_server)
 ```terminal=
-  cd SP_hw1
+  cd Vaccine_server
   make
   ./read_server {portnum} &
   telnet 127.0.0.1 {portnum}
@@ -12,7 +12,7 @@ Valid id are from 902001 to 902020
 
 ### How to run the program (write_server)
 ```terminal=
-  cd SP_hw1
+  cd Vaccine_server
   make
   ./write_server {portnum} &
   telnet 127.0.0.1 {portnum}
